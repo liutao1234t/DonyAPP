@@ -1,0 +1,303 @@
+{
+  "appIdentity": {
+    "brand": {
+      "name": "Dony",
+      "tone": "warm pet styling"
+    },
+    "contact": {
+      "supportEmail": "help@dony.beer"
+    }
+  },
+  "visualTheme": {
+    "palette": {
+      "background": "#FFF7F3",
+      "brandTeal": "#2F7377",
+      "softAqua": "#A9E3EA"
+    },
+    "typography": {
+      "headline": "renjipop",
+      "body": "mobile readable"
+    }
+  },
+  "homeHeader": {
+    "profile": {
+      "displayName": "Mia & Mochi",
+      "avatarStyle": "round pet owner photo"
+    },
+    "actions": {
+      "chatIcon": true,
+      "settingsIcon": true
+    }
+  },
+  "navigationTabs": {
+    "primary": {
+      "guide": "Groom Guide",
+      "explore": "Explore"
+    },
+    "secondary": {
+      "chat": "Chat",
+      "studio": "Studio"
+    }
+  },
+  "aiStudio": {
+    "uploadPanel": {
+      "title": "AI Studio",
+      "prompt": "Transform your pup with high-fashion AI transformations"
+    },
+    "photoInput": {
+      "acceptedSubject": "front-facing dog photo",
+      "lightingHint": "bright natural light"
+    }
+  },
+  "stylePresets": {
+    "featured": {
+      "cuteBow": "pink bow portrait",
+      "royalPup": "classic salon outfit"
+    },
+    "seasonal": {
+      "summerTrim": "beach-ready coat idea",
+      "holidayGlow": "festive soft lights"
+    }
+  },
+  "magicPrompt": {
+    "examples": {
+      "goldFur": "Turn my dog's fur to gold",
+      "cloudCut": "Make the coat fluffy and round"
+    },
+    "limits": {
+      "maxLength": 240,
+      "imageRequired": true
+    }
+  },
+  "studioTip": {
+    "guidance": {
+      "photoAngle": "front-facing",
+      "furVisibility": "clear texture"
+    },
+    "quality": {
+      "bestLighting": "daylight",
+      "avoid": "motion blur"
+    }
+  },
+  "generationRequest": {
+    "input": {
+      "petName": "Mochi",
+      "breed": "Pomeranian"
+    },
+    "style": {
+      "preset": "Cute Bow",
+      "mood": "sweet editorial"
+    }
+  },
+  "generationResult": {
+    "output": {
+      "status": "ready",
+      "format": "portrait image"
+    },
+    "notes": {
+      "caption": "soft pink bow with fluffy coat detail",
+      "careReminder": "check comfort before accessories"
+    }
+  },
+  "aiGroomer": {
+    "assistant": {
+      "name": "AI Groomer",
+      "specialty": "dog coat care"
+    },
+    "opening": {
+      "message": "Ask about styling, tools, or grooming tips"
+    }
+  },
+  "chatSuggestions": {
+    "quickQuestions": {
+      "goldenBrush": "How to brush a Golden?",
+      "bichonShampoo": "Best shampoo for Bichon?"
+    },
+    "seasonalCare": {
+      "summerTrim": "Summer trim advice?",
+      "coatCooling": "Keep coat airy without shaving"
+    }
+  },
+  "chatSession": {
+    "messages": {
+      "userText": "Tell me about summer trims for Labradoodles.",
+      "assistantText": "A puppy cut can keep coat manageable while protecting skin"
+    },
+    "credits": {
+      "perChat": 5,
+      "balance": 40
+    }
+  },
+  "directMessages": {
+    "thread": {
+      "handle": "@cloud_paws",
+      "presence": "active now"
+    },
+    "sample": {
+      "question": "Tips for cloud cut volume?",
+      "answer": "Use light spray and a curved slicker brush"
+    }
+  },
+  "messageComposer": {
+    "attachments": {
+      "photo": true,
+      "camera": true
+    },
+    "send": {
+      "buttonStyle": "teal circle",
+      "placeholder": "Message AI Groomer..."
+    }
+  },
+  "exploreFeed": {
+    "postOne": {
+      "author": "@cloud_paws",
+      "style": "white cloud cut"
+    },
+    "postTwo": {
+      "author": "@lavender_luxe",
+      "style": "poodle color accent"
+    }
+  },
+  "feedActions": {
+    "engagement": {
+      "like": true,
+      "comment": true
+    },
+    "sharing": {
+      "shareSheet": true,
+      "saveLook": true
+    }
+  },
+  "guideLibrary": {
+    "sections": {
+      "breedCuts": "classic groom styles",
+      "careSkills": "brushing and shine"
+    },
+    "filters": {
+      "breed": "Golden",
+      "level": "Beginner"
+    }
+  },
+  "guideCards": {
+    "poodlePom": {
+      "breed": "Poodle",
+      "difficulty": "Golden",
+      "summary": "spherical trim on limbs and tail"
+    },
+    "yorkieBow": {
+      "breed": "Yorkie",
+      "difficulty": "Expert",
+      "summary": "silk coat with top knot"
+    }
+  },
+  "editorialTip": {
+    "article": {
+      "title": "The Art of the Shine",
+      "topic": "natural oils and brushing"
+    },
+    "media": {
+      "imageSubject": "brush and coat oil",
+      "layout": "large guide card"
+    }
+  },
+  "petProfile": {
+    "dog": {
+      "name": "Mochi",
+      "breed": "Bichon Frise"
+    },
+    "coat": {
+      "texture": "cotton soft",
+      "length": "medium"
+    }
+  },
+  "carePreferences": {
+    "routine": {
+      "brushDays": "every other day",
+      "bathCadence": "monthly"
+    },
+    "sensitivities": {
+      "skin": "mild dryness",
+      "fragrance": "low scent"
+    }
+  },
+  "creditWallet": {
+    "balance": {
+      "current": 40,
+      "currencyLabel": "Credits"
+    },
+    "usage": {
+      "chatCost": 5,
+      "imageCost": 12
+    }
+  },
+  "safetyNotices": {
+    "petCare": {
+      "message": "AI tips do not replace professional care",
+      "urgentCare": "contact a veterinarian for symptoms"
+    },
+    "photoUse": {
+      "permissionNeeded": true,
+      "avoidPrivateInfo": true
+    }
+  },
+  "privacyControls": {
+    "dataScope": {
+      "functionalOnly": true,
+      "unrelatedCollection": false
+    },
+    "sharing": {
+      "sellData": false,
+      "rentData": false
+    }
+  },
+  "modelPolicy": {
+    "aiOrigin": {
+      "builtInHouse": true,
+      "selfTrained": true
+    },
+    "hosting": {
+      "selfHosted": true,
+      "outsideModelService": false
+    }
+  },
+  "notifications": {
+    "reminders": {
+      "brushReminder": "Friday evening",
+      "creditAlert": "low balance"
+    },
+    "channels": {
+      "inApp": true,
+      "email": false
+    }
+  },
+  "localization": {
+    "language": {
+      "primary": "English",
+      "fallback": "system default"
+    },
+    "units": {
+      "coatLength": "inch",
+      "timeFormat": "12-hour"
+    }
+  },
+  "supportCenter": {
+    "contact": {
+      "email": "help@dony.beer",
+      "topic": "account or privacy help"
+    },
+    "response": {
+      "target": "within a reasonable time",
+      "includeDetails": "device and app version"
+    }
+  },
+  "releaseConfig": {
+    "version": {
+      "name": "1.0.0",
+      "buildLabel": "pet styling launch"
+    },
+    "availability": {
+      "platform": "iOS",
+      "regionMode": "standard launch"
+    }
+  }
+}
